@@ -3,3 +3,4 @@ C Hello-World
 1. Compiles a C file
 2. Generates assembly code
 3. Creates executable file
+4. Prints exactly what is written in the C file using function puts
