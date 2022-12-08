@@ -6,4 +6,5 @@ C Hello-World
 4. Prints exactly what is written in the C file using function puts
 5. Prints exactly what is written in the C file using function printf
 6. Prints types of various types on the computer compiled on
-7. Generates assembly code (intel syntax) of a C code 
+7. Generates assembly code (intel syntax) of a C code
+8. Program that prints exactly what is written in code  
