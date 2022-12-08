@@ -4,3 +4,4 @@ C Hello-World
 2. Generates assembly code
 3. Creates executable file
 4. Prints exactly what is written in the C file using function puts
+5. Prints exactly what is written in the C file using function printf
