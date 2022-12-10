@@ -11,8 +11,8 @@ int main(void)
 
 	if (x = 'a'; x <= 'z'; x++)
 	{
-		putchr(x)
+		putchar(x);
 	}
-	putchr('\n');
+	putchar('\n');
 	return (0);
 }
