@@ -3,7 +3,7 @@
 /**
  * main - print all single digit
  *
- * Return : Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -11,7 +11,8 @@ int main(void)
 
 	for (x = 0; x <= 10; x++)
 	{
-		printf("%d\n", x);
+		printf("%d", x);
 	}
+	printf("\n");
 	return (0);
 }
