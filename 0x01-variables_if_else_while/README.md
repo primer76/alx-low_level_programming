@@ -3,3 +3,4 @@ C - Variables, if, else, while
 1. Assigns random number to the variabe and prints the last digit
 2. Prints alphabets in lowercase
 3. Prints alphabet in small letters and capital letters
+4. Prints all alphabets wit exception of e and q
