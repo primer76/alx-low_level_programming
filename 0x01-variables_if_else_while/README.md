@@ -5,3 +5,7 @@ C - Variables, if, else, while
 3. Prints alphabet in small letters and capital letters
 4. Prints all alphabets wit exception of e and q
 5. Prints numbers from 0-9
+6. Prints numbers from 0-9 but with putchar
+7. Prints lowercase in reverse
+8. Prints all the numbers of base 16 in lovercase
+9. Prints all possible combinations of single digit numbers
