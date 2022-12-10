@@ -9,7 +9,7 @@ int main(void)
 {
 	char x;
 
-	if ( x = 'a'; x <= 'z'; x++)
+	if (x = 'a'; x <= 'z'; x++)
 	{
 		putchr(x)
 	}
