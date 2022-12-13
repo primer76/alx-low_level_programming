@@ -1,3 +1,4 @@
 0x02. C - Functions, nested loops
-1. Prints out _putchar
-2. Prints alpabets in lowercase
+0. Prints out _putchar
+1. Prints alpabets in lowercase
+2. Prints 10 times alphabet in lower case
