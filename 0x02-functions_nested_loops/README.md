@@ -2,3 +2,5 @@
 0. Prints out _putchar
 1. Prints alpabets in lowercase
 2. Prints 10 times alphabet in lower case
+3. Checks code for lower case character
+4. Checks code for alphabetic character
