@@ -5,3 +5,5 @@
 3. Checks code for lower case character
 4. Checks code for alphabetic character
 5. Prints the sign of a number
+6. Computs the absolute value of an integer
+
