@@ -8,4 +8,4 @@
 6. Computs the absolute value of an integer
 7. Prints last digit of a number
 8. Prints every minute of the day
-
+9. Prints the 9 times table
