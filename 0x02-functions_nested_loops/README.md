@@ -6,5 +6,6 @@
 4. Checks code for alphabetic character
 5. Prints the sign of a number
 6. Computs the absolute value of an integer
-7. Prints las digit of a number
+7. Prints last digit of a number
+8. Prints every minute of the day
 
