@@ -10,4 +10,9 @@
 8. Prints every minute of the day
 9. Prints the 9 times table
 10. Adds 2 integers together
-
+11. Prints all natural number from n to 98
+12. Prints n times table staring with 0
+13. Computesand prints sum of all the multiples of 3 and 5
+14. Prints first 50 Fibonacci numbers
+15. Prints sum of even valued terms
+16. Prints the first Fibonacci numbers
