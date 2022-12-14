@@ -6,4 +6,5 @@
 4. Checks code for alphabetic character
 5. Prints the sign of a number
 6. Computs the absolute value of an integer
+7. Prints las digit of a number
 
