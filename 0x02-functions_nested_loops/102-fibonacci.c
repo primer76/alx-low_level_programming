@@ -16,11 +16,11 @@ int main(void)
 	{
 		if (c != 20365011074)
 		{
-			printf("%ld, ", b);
+			printf("%ld, ", c);
 		}
 		else
 		{
-			printf("%ld\n", b);
+			printf("%ld\n", c);
 		}
 		forward = c + d;
 		c = d;
