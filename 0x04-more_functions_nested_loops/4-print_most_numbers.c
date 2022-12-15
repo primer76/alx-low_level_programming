@@ -17,5 +17,5 @@ continue;
 else
 _putchar(i + '0');
 }
-putchar('\n');
+_putchar('\n');
 }
