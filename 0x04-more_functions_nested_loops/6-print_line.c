@@ -2,9 +2,10 @@
 
 /**
  * print_line  - draws straight line
+ * @n : character to be checked
  */
 
-void print_line(void)
+void print_line(int n)
 {
 if (n <= 0)
 {
