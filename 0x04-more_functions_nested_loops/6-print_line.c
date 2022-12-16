@@ -17,7 +17,7 @@ int w;
 
 for (w = 1; w <= n; w++)
 {
-_putchar('_')
+_putchar('_');
 }
 _putchar('\n');
 }
