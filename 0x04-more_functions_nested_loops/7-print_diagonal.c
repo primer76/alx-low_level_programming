@@ -19,9 +19,9 @@ for (a = 0; a < n; a++)
 {
 for (b = 0; b < n; b++)
 {
-if (j == i)
+if (b == i)
 _putchar('\\');
-else if (j < i)
+else if (b < i)
 _putchar(' ');
 }
 _putchar('\n');
