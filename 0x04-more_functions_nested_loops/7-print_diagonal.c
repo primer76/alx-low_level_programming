@@ -1,5 +1,4 @@
-#inc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
-lude "main.h"
+#include "main.h"
 
 /**
  * print_diagonal - draws diagonal line on terminal
