@@ -9,7 +9,9 @@
 
 int main(void)
 {
-	long int a, max, j;
+	long int a;
+	long int max;
+	long int j;
 
 	a = 612852475143;
 	max = -1;
@@ -31,6 +33,7 @@ int main(void)
 
 	if (a > 2)
 		max = a;
+
 	printf("%1d\n", max);
 
 	return (0);
