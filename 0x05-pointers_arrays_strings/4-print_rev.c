@@ -14,5 +14,5 @@ void print_rev(char *s)
 
 	for (--reverse; reverse >= 0; --reverse)
 		_putchar(s[reverse]);
-	_putchar('\n);
+	_putchar('\n');
 }
