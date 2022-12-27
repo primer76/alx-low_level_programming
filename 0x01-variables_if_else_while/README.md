@@ -9,3 +9,6 @@ C - Variables, if, else, while
 7. Prints lowercase in reverse
 8. Prints all the numbers of base 16 in lovercase
 9. Prints all possible combinations of single digit numbers
+10. prints all possible different combinations of two digits
+11. prints all possible different combinations of three digits.
+12. prints all possible combinations of two two-digit numbers.
